@@ -5,7 +5,7 @@
   padding: 0;
   box-sizing: border-box;
   font-family: "Poppins", sans-serif;
-  font-size: 13px;
+  font-size: 14px;
   font-weight: 600;
 }
 
@@ -32,7 +32,8 @@ body {
 .container {
   width: 500px;
   background: #ffffff;
-  padding: 1rem;
+  padding: 2rem;
+  border-radius: 10px;
 }
 
 hr {
